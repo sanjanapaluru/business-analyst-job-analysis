@@ -1,8 +1,8 @@
-# 📊 Business Analyst Job Market Insights
+#  Business Analyst Job Market Insights
 
 This project analyzes Business Analyst job postings across industries, cities, job types, and experience levels to uncover salary trends, hiring cycles, and the evolving nature of remote/hybrid work. It also explores AI applications in data scraping and visualization.
 
-## 🚀 Project Overview
+##  Project Overview
 
 This end-to-end data analytics project includes:
 
@@ -17,7 +17,7 @@ This end-to-end data analytics project includes:
 - Sector-specific focus on Healthcare
 - AI applications in data scraping and visualization
 
-## 📁 Project Structure
+##  Project Structure
 
 ├── business_analyst_jobs.csv # Cleaned dataset
 ├── model.ipynb # Data analysis, cleaning, feature extraction
@@ -29,7 +29,7 @@ markdown
 Copy
 Edit
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - **Python**: pandas, numpy, matplotlib, seaborn
 - **Web Scraping**: BeautifulSoup, requests
@@ -37,7 +37,7 @@ Edit
 - **Visualization**: Matplotlib, Seaborn
 - **AI Techniques**: NLP, intelligent scraping, real-time visualization (discussed conceptually)
 
-## 📈 Key Insights
+##  Key Insights
 
 - **Top Paying Industries**: Crypto, Automotive, and Tech
 - **Cities with Highest Median Salaries**: San Francisco, New York, Boston
@@ -49,12 +49,12 @@ Edit
   - Remote roles dominate (58.5%)
   - Onsite roles are rare (9.4%)
 
-## 🤖 AI Applications (Conceptual)
+##  AI Applications (Conceptual)
 
 - **Web Scraping**: NLP for unstructured text, adaptive scrapers using ML
 - **Visualization**: AI-generated insights, immersive VR/AR dashboards, real-time visual updates
 
-## 📊 Sample Visuals
+##  Sample Visuals
 
 > See the [`visualization.ipynb`](visualization.ipynb) and slides (`DATA_ANALYTICS_PPT.pdf`) for plots such as:
 > - Salary by Industry

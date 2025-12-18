@@ -19,11 +19,11 @@ This end-to-end data analytics project includes:
 
 ##  Project Structure
 
-├── business_analyst_jobs.csv # Cleaned dataset
-├── model.ipynb # Data analysis, cleaning, feature extraction
-├── visualization.ipynb # Exploratory data visualizations
-├── DATA_ANALYTICS_PPT.pdf # Presentation summarizing findings
-└── README.md # Project documentation
+ business_analyst_jobs.csv # Cleaned dataset
+ model.ipynb # Data analysis, cleaning, feature extraction
+ visualization.ipynb # Exploratory data visualizations
+ DATA_ANALYTICS_PPT.pdf # Presentation summarizing findings
+ README.md # Project documentation
 
 markdown
 Copy
